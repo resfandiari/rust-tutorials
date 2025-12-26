@@ -12,3 +12,9 @@ Exploring Rust's variable declaration, mutability, constants, and shadowing conc
 - Constants declaration
 - Variable shadowing
 - Different println! formatting styles
+
+### data_types
+Learning about Rust's data types including scalar and compound types. Covers:
+- Scalar types (integers, floats, booleans, characters)
+- Compound types (tuples, arrays)
+- Type annotations and inference
