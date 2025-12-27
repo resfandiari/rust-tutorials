@@ -25,3 +25,9 @@ Understanding Rust functions including parameters, return values, and multiple r
 - Parameters with type annotations
 - Return values and return types
 - Returning multiple values using tuples
+### control_flow
+Exploring Rust's control flow constructs including conditionals and loops. Demonstrates:
+- `if`/`else if`/`else` expressions
+- `match` expressions for pattern matching
+- `while` loops for iteration
+- Recursion vs iterative approaches (factorial example)
