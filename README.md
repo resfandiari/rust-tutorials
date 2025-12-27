@@ -18,3 +18,10 @@ Learning about Rust's data types including scalar and compound types. Covers:
 - Scalar types (integers, floats, booleans, characters)
 - Compound types (tuples, arrays)
 - Type annotations and inference
+
+### functions
+Understanding Rust functions including parameters, return values, and multiple return values. Demonstrates:
+- Function definition and calling
+- Parameters with type annotations
+- Return values and return types
+- Returning multiple values using tuples
